@@ -1,3 +1,3 @@
 <div align="center">
-<bugs(https://i.postimg.cc/vHLw896y/bugs.png)>
+<img id=wow src=https://i.postimg.cc/vHLw896y/bugs.png alt="bugs">
 </div>
